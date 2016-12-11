@@ -1,7 +1,8 @@
-## Simple Work Manager
+# Simple Work Manager
+* Mam cichą nadzieje, że to pomoże wam zrozumieć na czym polega ten dyplomowy :D
 
-#Struktura folderów
+##Struktura folderów
 
-#Technologie/libki
+##Technologie/libki
 
-#Co się będzie tutaj znajdowało
+##Co się będzie tutaj znajdowało
