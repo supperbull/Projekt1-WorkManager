@@ -6,4 +6,3 @@
 ##Technologie/libki
 
 ##Co się będzie tutaj znajdowało
-
